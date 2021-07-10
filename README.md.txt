@@ -2,9 +2,8 @@
 
 ## Questão:
 
-1- _Você é responsável por desenvolver o sistema gestor de uma academia._
-
-_Em reunião com o cliente ficaram definidos alguns pontos essências do sistema. No projeto devemos possuir:_
+1- _Você é responsável por desenvolver o sistema gestor de uma academia.
+Em reunião com o cliente ficaram definidos alguns pontos essências do sistema. No projeto devemos possuir:_
 
 - ### Atendente:
 
